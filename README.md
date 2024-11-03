@@ -1,7 +1,3 @@
-Here’s an updated version of your README file that includes your skills in Power BI and Data Analytics:
-
----
-
 # Welcome to My GitHub Profile!
 
 Hello! I am **Annapurna**, a passionate Data Scientist and Machine Learning Enthusiast with a strong foundation in computer science and a deep interest in exploring the intersections of technology and innovation. I love creating impactful solutions through data-driven insights and enjoy leveraging my skills in programming, data analysis, and machine learning to solve real-world problems.
