@@ -47,7 +47,7 @@ Designed and implemented dynamic dashboards in Power BI that provide visual insi
 
 ## Get in Touch
 
-I am always open to new opportunities and collaborations! If you would like to connect, please feel free to reach out through [LinkedIn](www.linkedin.com/in/annapurnapadmanabhan) or drop me an email at [annapurnapadmaprema@gmail.com].
+I am always open to new opportunities and collaborations! If you would like to connect, please feel free to reach out through [LinkedIn](www.linkedin.com/in/annapurnapadmanabhan) or drop me an email at annapurnapadmaprema@gmail.com.
 
 ---
 
