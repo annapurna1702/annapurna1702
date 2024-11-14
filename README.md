@@ -20,6 +20,7 @@ I hold a **Bachelor's in Computer Applications** and am currently pursuing an **
 ## 🔑 Key Skills
 
 - **Programming Languages:** Python, Java, SQL
+- **Generative AI**
 - **ML Frameworks:** TensorFlow, Keras, Scikit-learn
 - **Web Development:** Flask, Streamlit, HTML/CSS
 - **Data Visualization:** Pandas, Matplotlib, Seaborn
