@@ -42,6 +42,17 @@ I hold a **Bachelor's in Computer Applications** and am currently pursuing an **
 ## 📂 Project Highlights
 
 Here’s a snapshot of some of the exciting projects I’ve worked on:
+### **🎙👩‍🍳[Chatbot for Indian Cuisines](#)**
+Applied RAG model and developed a fine-tuned stable diffusion model and integrated them in chatbot to act as an assistant in cooking Indian dishes.
+### 
+
+### **🎙️[Text-To-Speech Model](#)**
+Applied Tacotron2 model for text-to-speech functionalities...(More exciting updates coming soon!)
+### 
+
+### 👩‍⚖️**[IPC Section Identifier](#)**
+Applied fine-tuned Legal BERT for identifying IPC Sections given details of offense.
+### 
 
 ### 🎨 **[Colorization of Videos and Images](#)**
 Applied deep learning to colorize black-and-white images and videos, breathing life into grayscale media. 
