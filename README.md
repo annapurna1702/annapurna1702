@@ -42,7 +42,7 @@ I hold a **Bachelor's in Computer Applications** and am currently pursuing an **
 ## 📂 Project Highlights
 
 Here’s a snapshot of some of the exciting projects I’ve worked on:
-### **🎙👩‍🍳[Chatbot for Indian Cuisines](#)**
+### **👩‍🍳[Chatbot for Indian Cuisines](#)**
 Applied RAG model and developed a fine-tuned stable diffusion model and integrated them in chatbot to act as an assistant in cooking Indian dishes.
 ### 
 
