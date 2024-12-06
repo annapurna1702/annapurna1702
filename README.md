@@ -50,7 +50,7 @@ Applied RAG model and developed a fine-tuned stable diffusion model and integrat
 Applied Tacotron2 model for text-to-speech functionalities...(More exciting updates coming soon!)
 ### 
 
-### 👩‍⚖️**[IPC Section Identifier](#)**
+### **👩‍⚖️[IPC Section Identifier](#)**
 Applied fine-tuned Legal BERT for identifying IPC Sections given details of offense.
 ### 
 
