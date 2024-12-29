@@ -22,7 +22,7 @@ I hold a **Bachelor's in Computer Applications** and am currently pursuing an **
 - **Programming Languages:** Python, Java, SQL
 - **Generative AI**
 - **ML Frameworks:** TensorFlow, Keras, Scikit-learn
-- **Web Development:** Flask, Streamlit, HTML/CSS
+- **Web Development:** Flask, Django, Angular,Streamlit, HTML/CSS
 - **Data Visualization:** Pandas, Matplotlib, Seaborn
 - **Image Processing:** OpenCV, PIL
 - **Databases:** PostgreSQL, SQLite
