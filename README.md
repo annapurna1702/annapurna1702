@@ -88,6 +88,9 @@ Web applications for dynamic data exploration, turning complex insights into eas
 I’m always open to new opportunities and collaborations. Connect with me on [LinkedIn](https://www.linkedin.com/in/annapurnapadmanabhan) or send an email at **annapurnapadmaprema@gmail.com**. Let’s explore how we can innovate together!
 
 ---
+## Professional Details
+
+You can view my resume and understand more about my professional side over here:**https://annapurna1702.github.io/portfolio/**
 
 Thank you for visiting my GitHub profile! Looking forward to connecting with fellow tech enthusiasts and creating impactful projects together. Happy coding! 😊
 
