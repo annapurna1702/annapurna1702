@@ -8,7 +8,7 @@ Hello! I'm **Annapurna Padmanabhan** – a Data Scientist and Machine Learning E
 ## 🌟 About Me
 
 🎓 **Background**  
-I hold a **Bachelor's in Computer Applications** and am currently pursuing an **MSc in Computer Science with a specialization in Data Analytics**. My experience spans across **Artificial Intelligence, Data Analytics, Image Processing, and Natural Language Processing**, where I've gained hands-on expertise and a continuous drive to learn.
+I hold a **Bachelor's in Computer Applications** and am currently pursuing an **MSc in Computer Science with a specialization in Data Analytics**. My experience spans across **[Artificial Intelligence], Data Analytics, Image Processing, and Natural Language Processing**, where I've gained hands-on expertise and a continuous drive to learn.
 
 💻 **Key Strengths**  
 - Building data-powered applications that deliver meaningful insights
