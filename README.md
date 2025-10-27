@@ -8,7 +8,7 @@ Hello! I'm **Annapurna Padmanabhan** – a Data Scientist and Machine Learning E
 ## 🌟 About Me
 
 🎓 **Background**  
-I hold a **Bachelor's in Computer Applications** and am currently pursuing an **MSc in Computer Science with a specialization in Data Analytics**. My experience spans across **[Artificial Intelligence](#), [Data Analytics](#), [Image Processing](#), and [Natural Language Processing](#)**, where I've gained hands-on expertise and a continuous drive to learn.
+I hold a **Bachelor's in Computer Applications** and an **MSc in Computer Science with a specialization in Data Analytics (University 2nd Rank)**. My experience spans across **[Agentic AI](#), **[Artificial Intelligence](#), [Data Analytics](#), [Image Processing](#), and [Natural Language Processing](#)**, where I've gained hands-on expertise and a continuous drive to learn.
 
 💻 **Key Strengths**  
 - Building data-powered applications that deliver meaningful insights
@@ -24,11 +24,14 @@ I hold a **Bachelor's in Computer Applications** and am currently pursuing an **
 - **LangChain/LangGraph**
 - **Agentic LLM**
 - **ML Frameworks:** TensorFlow, Keras, Scikit-learn
-- **Web Development:** Flask, Django, Angular,Streamlit, HTML/CSS
+- **Web Development:** Flask, Django, Angular,Streamlit, React, HTML/CSS
 - **Data Visualization:** Pandas, Matplotlib, Seaborn
 - **Image Processing:** OpenCV, PIL
 - **Databases:** PostgreSQL, SQLite
 - **Data Analytics & BI:** Power BI
+- **Task Scheduling:** Cron jobs
+- **Celery**
+- **OpenAPI**
 
 ---
 
@@ -44,6 +47,10 @@ I hold a **Bachelor's in Computer Applications** and am currently pursuing an **
 ## 📂 Project Highlights
 
 Here’s a snapshot of some of the exciting projects I’ve worked on:
+### **🤖[Robotic Interview Model](#)**
+Engineered an end-to-end AI-powered Robotic Interview System using LangChain. Deployed a secure, Flask-based interface with facial recognition, identity verification, and continuous liveness monitoring. Achieved high semantic alignment (0.78 cosine similarity), delivering near-human interview performance with scalable, bias-reduced automation.
+###
+
 ### **👩‍🍳[Chatbot for Indian Cuisines](#)**
 Applied RAG model and developed a fine-tuned stable diffusion model and integrated them in chatbot to act as an assistant in cooking Indian dishes.
 ### 
